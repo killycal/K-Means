@@ -1,0 +1,40 @@
+For ecoli.txt
+Best Jaccards: 0.262055
+Best Rands: 254.107
+
+For ionosphere.txt
+Best Jaccards: 0.431048
+Best Rands: 189.031
+
+For iris_bezdek.txt
+Best Jaccards: 0.478011
+Best Rands: 106.507
+
+For ruspini.txt
+Best Jaccards: 0.543256
+Best Rands: 60.9067
+
+For wine.txt
+Best Jaccards: 0.41124
+Best Rands: 118.64
+
+For yeast.txt
+Best Jaccards: 0.127049
+Best Rands: 1074.69
+
+For landsat.txt
+Best Jaccards: 0.350067
+Best Rands: 5300.81
+
+For letter_recognition.txt
+Best Jaccards: 0.0904884
+Best Rands: 18596.2
+
+For mfeat-fou.txt
+Best Jaccards: 0.333125
+Best Rands: 1752.46
+
+For optdigits.txt
+Best Jaccards: 0.408755
+Best Rands: 5107.04
+

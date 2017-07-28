@@ -1,0 +1,43 @@
+Best CH(k) for ecoli.txt is k= 2 with a value of 235.362
+
+Best SW(k) for ecoli.txt is k= 2 with a value of 160.166
+
+Best DB(k) for ecoli.txt is k= 2 with a value of 0.47557
+
+Best CH(k) for glass.txt is k= 4 with a value of 96.0956
+
+Best SW(k) for glass.txt is k= 2 with a value of 146.975
+
+Best DB(k) for glass.txt is k= 2 with a value of 4.36882
+
+Best CH(k) for ionosphere.txt is k= 3 with a value of 62.1778
+
+Best SW(k) for ionosphere.txt is k= 2 with a value of 336.004
+
+Best DB(k) for ionosphere.txt is k= 5 with a value of 18.6492
+
+Best CH(k) for iris_bezdek.txt is k= 3 with a value of 561.628
+
+Best SW(k) for iris_bezdek.txt is k= 2 with a value of 19.983
+
+Best DB(k) for iris_bezdek.txt is k= 3 with a value of 1.27468
+
+Best CH(k) for vehicle.txt is k= 2 with a value of 2722.17
+
+Best SW(k) for vehicle.txt is k= 2 with a value of 430.905
+
+Best DB(k) for vehicle.txt is k= 2 with a value of 137.532
+
+Best CH(k) for wine.txt is k= 6 with a value of 850.293
+
+Best SW(k) for wine.txt is k= 2 with a value of 56.6015
+
+Best DB(k) for wine.txt is k= 6 with a value of 155.408
+
+Best CH(k) for yeast.txt is k= 2 with a value of 426.118
+
+Best SW(k) for yeast.txt is k= 6 with a value of 1322.53
+
+Best DB(k) for yeast.txt is k= 2 with a value of 0.383465
+
+

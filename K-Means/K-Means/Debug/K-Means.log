@@ -1,0 +1,21 @@
+﻿  Source.cpp
+c:\users\killycal\documents\visual studio 2015\projects\k-means\k-means\source.cpp(120): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\killycal\documents\visual studio 2015\projects\k-means\k-means\source.cpp(121): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\killycal\documents\visual studio 2015\projects\k-means\k-means\source.cpp(186): warning C4018: '<': signed/unsigned mismatch
+c:\users\killycal\documents\visual studio 2015\projects\k-means\k-means\source.cpp(211): warning C4018: '<': signed/unsigned mismatch
+c:\users\killycal\documents\visual studio 2015\projects\k-means\k-means\source.cpp(224): warning C4018: '<': signed/unsigned mismatch
+c:\users\killycal\documents\visual studio 2015\projects\k-means\k-means\source.cpp(272): warning C4018: '<': signed/unsigned mismatch
+c:\users\killycal\documents\visual studio 2015\projects\k-means\k-means\source.cpp(282): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\killycal\documents\visual studio 2015\projects\k-means\k-means\source.cpp(312): warning C4018: '<': signed/unsigned mismatch
+c:\users\killycal\documents\visual studio 2015\projects\k-means\k-means\source.cpp(325): warning C4018: '<': signed/unsigned mismatch
+c:\users\killycal\documents\visual studio 2015\projects\k-means\k-means\source.cpp(285): warning C4101: 'bestit': unreferenced local variable
+c:\users\killycal\documents\visual studio 2015\projects\k-means\k-means\source.cpp(281): warning C4101: 'random': unreferenced local variable
+c:\users\killycal\documents\visual studio 2015\projects\k-means\k-means\source.cpp(360): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\killycal\documents\visual studio 2015\projects\k-means\k-means\source.cpp(383): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\killycal\documents\visual studio 2015\projects\k-means\k-means\source.cpp(395): warning C4018: '<': signed/unsigned mismatch
+c:\users\killycal\documents\visual studio 2015\projects\k-means\k-means\source.cpp(397): warning C4018: '<': signed/unsigned mismatch
+c:\users\killycal\documents\visual studio 2015\projects\k-means\k-means\source.cpp(432): warning C4018: '<': signed/unsigned mismatch
+c:\users\killycal\documents\visual studio 2015\projects\k-means\k-means\source.cpp(449): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\killycal\documents\visual studio 2015\projects\k-means\k-means\source.cpp(456): warning C4101: 'minthing': unreferenced local variable
+  K-Means.vcxproj -> C:\Users\Killycal\documents\visual studio 2015\Projects\K-Means\Debug\K-Means.exe
+  K-Means.vcxproj -> C:\Users\Killycal\documents\visual studio 2015\Projects\K-Means\Debug\K-Means.pdb (Full PDB)
